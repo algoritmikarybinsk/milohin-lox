@@ -1,16 +1,34 @@
 # milohin-lox
 <html>
-    <body style="font-family:sans-serif;">
-        <header style="background-color:white">
-            <a href="https://geographyofrussia.com/mirovoj-okean/" style="color:navy">Статья об океане</a>
-        </header>
-        <main style="background-color:lightblue">
-            <h1 style="color:navy; text-align:center;font-size:40px">Институт изучения мирового океана</h1>
-            <p style="font-size:25px;text-align:center;">На нашем сайте будут опубликованы:<br/> монографии учёных, расписание конференций, отчёты об экспедициях, <br/>планирование экологических программ и многое другое.</p>
-            <img src="https://mars.algoritmika.org/uploads/2020/10/water-3194377_1920_0_1603951480.jpg" width="850px"/>
-        </main>
-        <footer style="color:navy">
-            <p>Адрес: город Науки, ул.Водная, 11</p>
-        </footer>
-    </body>
+    <h1>Турнир по киберспорту</h1>
+    <table style="border:1px solid lightgrey;border-collapse:collapse;">
+        <tr style="border:1px solid lightgrey;background-color:Olive;color:white;">
+            <td>Игра</td>
+            <td>Команда 1</td>
+            <td>Команда 2</td>
+            <td>Дата</td>
+            <td>Счёт</td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+           <td style="background-color:Olive;color:white;">Warface</td>
+           <td style="background-color:burlywood">Legion</td>
+           <td>Fire Master</td>
+           <td style="background-color:burlywood">11.11.2020</td>
+           <td>2 : 0</td>
+        </tr> 
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CrossFire</td>
+            <td style="background-color:burlywood">Wind of War</td>
+            <td>Legion</td>
+            <td style="background-color:burlywood">22.11.2020</td>
+            <td>2 : 1</td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CS GO</td>
+            <td style="background-color:burlywood">Demon Strike</td>
+            <td>Wind of War</td>
+            <td style="background-color:burlywood">03.12.2020</td>
+            <td>1 : 0</td>
+        </tr>
+    </table>
 </html>
